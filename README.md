@@ -162,24 +162,15 @@ A TypeScript web application project developed as part of my application develop
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/Saisreeharsha04">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saisreeharsha04&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics">
+  <img src="https://streak-stats.demolab.com/?user=Saisreeharsha04&hide_border=true&theme=transparent" alt="GitHub contribution streak">
 </a>
-<a href="https://github.com/Saisreeharsha04">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisreeharsha04&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Saisreeharsha04&hide_border=true&theme=transparent" alt="GitHub contribution streak">
 
 </div>
-
----
 
 ## Currently Exploring
 
